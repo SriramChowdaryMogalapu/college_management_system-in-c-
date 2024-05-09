@@ -1,5 +1,5 @@
 # College_management_system-in-cpp
-This project allows you to add, delete, edit, and display the records of students in the college. The project is written in C++.
+This project allows you to add, delete, edit, and display the records of students in the college.
 
 Through this project, we can maintain the student records in a file. I have written this file in C++ and I have made this user-friendly.
 
